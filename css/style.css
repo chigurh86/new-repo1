@@ -1,0 +1,66 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	font-family: Monospace;
+}
+
+#container{
+	margin:0 auto;
+}
+#maincontent{
+	margin: 0 auto;
+	min-width: 800px;
+}
+#backside{
+	background-color: white;
+	padding: 20px;
+	border-radius: 5px;
+}
+h1{
+	text-align: center;
+	font-size: 40px;
+	background-color: white;
+	margin-top: 0px;
+	padding-top:15px;
+	padding-bottom:15px;
+	font-family: impact;
+	letter-spacing: 2px;
+}
+#name{
+	margin-left:0px;
+}
+
+body{
+	background-color: #ADD8E6
+
+}
+
+#text{
+	width: 400px;
+	float: left;
+	margin-left: 35px;
+	background-color: white;
+	margin-right: 35px;
+	padding-left: 40px;
+	border-radius: 10px;
+	line-height: 20px;
+}
+#pic{
+	float: left;
+	max-width: 300px;
+	margin-left: 280px;
+}
+
+#contactinfo{
+	float: left;
+	max-width: 300px;
+	background-color: white;
+	padding: 20px;
+	border-radius: 5px;
+}
+p{
+	width: 350px;
+}
+section{
+
+}
